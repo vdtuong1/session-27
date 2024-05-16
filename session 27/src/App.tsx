@@ -1,13 +1,11 @@
-import B1 from "./components/B1.tsx"
-import B2 from "./components/ListCourse.tsx"
-import B3 from "./components/Calculation.tsx"
+import B1 from "./components/Excersice1"
+import B2 from "./components/Notification"
 
 export default function App() {
     return (
       <div>
         <B1></B1>
         <B2></B2>
-        <B3></B3>
       </div>
     )
   }
